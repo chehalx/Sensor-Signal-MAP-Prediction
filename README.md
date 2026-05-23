@@ -1,4 +1,5 @@
 Objective
+
 The objective of this project is to develop a deep learning model that predicts Mean Arterial Pressure (MAP) from raw physiological waveform data. Each sample consists of 10 seconds of sensor data sampled at 100 Hz, resulting in 1000 data points per instance. Only the waveform data was used as input, while all other label columns such as Time, HR, RR, SV, and TPR were excluded. The goal was to learn the relationship between waveform characteristics and MAP and achieve a low prediction error on the test set.
 
  Pipeline Overview
