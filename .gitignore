@@ -1,0 +1,11 @@
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+data/
+*.npy
+outputs/models/linear.pkl
+outputs/models/random_forest.pkl
+outputs/models/ridge_rbf.pkl
+outputs/models/extra_trees.pkl
+outputs/models/lightgbm.pkl
+outputs/models/xgboost.pkl  
